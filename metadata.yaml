@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1170
     wikipedia: http://en.wikipedia.org/wiki/Charles_Warren_Stoddard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40010#Summer-Cruising-in-the-South-Seas
 gutenberg_issued: '2012-06-16'
 gutenberg_type: Text
 identifiers:
